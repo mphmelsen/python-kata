@@ -20,3 +20,7 @@ The response you'd normally get from querying the DynamoDB table are implemented
 * Implement functions in `src/main.py`. The functions contain a doc statement what they're supposed to do.
   * Utilize `test/test_main.py` to add unit tests
 * If time allows, annotate the functions with static types from `typing` lib.
+
+# Running it
+* You can run the exercise from your IDE
+* OR you can run it from the command line by first adding this: `export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"`
